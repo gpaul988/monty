@@ -1,3 +1,9 @@
+#define _POSIX_C_SOURCE 200809L
+
+#include <string.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <ctype.h>
 #include "monty.h"
 /**
 * f_push – Include new node to stack
