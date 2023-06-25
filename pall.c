@@ -2,7 +2,7 @@
 /**
 * f_pall - Pulls stack
 * @head: Beginning of stack
-* @counter: Number of lines
+* @counter: Counts lines
 * Return: no return
 */
 void f_pall(stack_t **head, unsigned int counter)

@@ -6,9 +6,9 @@
 #include <ctype.h>
 #include "monty.h"
 /**
-* f_push – Include new node to stack
+* f_push – Beginning stack
 * @head: Beginning of stack
-* @counter: Number of lines
+* @counter: Counts lines
 * Return: Void
 */
 void f_push(stack_t **head, unsigned int counter)
